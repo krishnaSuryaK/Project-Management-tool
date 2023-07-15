@@ -10,7 +10,7 @@ I take immense pride in what we have achieved, and I firmly believe that this pr
 I am now looking forward to leveraging the skills and knowledge I have gained during this internship to contribute to future projects at Bharat. The opportunities ahead are incredibly exciting, and I am confident that together we will achieve great things. 🌟🚀
 🤝
 task 2 :- project management tool
-https://lnkd.in/gW9TFthB
+https://github.com/krishnaSuryaK/Project-Management-tool
 
 Bharat Intern
 #grateful
